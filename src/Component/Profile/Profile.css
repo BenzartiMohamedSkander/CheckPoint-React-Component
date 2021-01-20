@@ -1,0 +1,160 @@
+header{
+    background-image: url("./developper3.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+       
+}
+
+nav{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px; 
+    padding-top: 30px;
+    text-align: center;
+   
+}
+
+nav a 
+{
+    text-decoration: none;
+    color: #fff ;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: .1em;
+    padding: 15px 20px ;
+}
+
+.my-text{
+    margin-left: auto;
+    margin-right: auto;
+ 
+    margin-top: 265px;
+    
+    height: 200px;
+    color: white;
+
+
+    text-align: center;
+  
+}
+.text-upercase{
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5) 
+}
+
+.myResume-table
+{
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 70px;
+    width: 100%;
+
+}
+
+th, td {
+
+   padding: 10px;
+ }
+
+ td p{
+     color: rgb(112, 109, 109);
+}
+.school{
+
+   font-size: 16px;
+   color: rgba(240, 230, 230, 0.685);
+}
+
+
+.date{
+   color: white;
+}
+.rcorners1 {
+   border-radius: 25px;
+   background:  rgb(70, 70, 70);
+   padding: 21px;
+  
+ }
+.link-btn{
+   border-radius: 25px;
+   margin-top: 15px;
+   
+   color: white;
+   padding: 10px 25px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 12px;
+   letter-spacing: .2rem;
+   
+    
+}
+
+
+#fname{
+    display: block;
+    margin-top: 7px;
+    width: 100%;
+
+    padding: 12px 20px;
+   margin-top:10px;
+    
+    color: #fff;
+   
+    border-radius: 10px;
+    
+    background-color: rgb(63, 62, 62);
+    box-sizing: border-box; } 
+
+
+    .my-textarea{
+    display: block;
+    margin-top: 7px;
+    width: 100%;
+
+    padding: 12px 20px;
+   margin-top:10px;
+    
+    color: #fff;
+   
+    border-radius: 10px;
+    
+    background-color: rgb(63, 62, 62);
+    box-sizing: border-box;
+    }
+
+    h4{
+       color: #fff;
+       font-weight: 200;
+       font-family: inherit;
+       margin-top: 0;
+    }
+
+    ul{
+       display: block;
+   list-style-type:none;
+ 
+       margin-block-start: 1em;
+       margin-block-end: 1em;
+       margin-inline-start: 0px;
+       margin-inline-end: 0px;
+       padding-inline-start: 40px;
+    }
+
+    li > span 
+    {
+       color: #2c3e50;
+       letter-spacing: .1em;
+       font-size: 12px;
+       font-weight: 500;
+       margin-bottom: 5px;
+       display: block;
+    }
+
+    footer
+    {
+        margin: 30px;
+        text-align: center;
+    }
